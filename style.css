@@ -1,0 +1,22 @@
+body
+{
+    background-attachment: fixed;
+    background-image: url('back.jpg');
+    padding: 200px;
+    border-style: dotted;
+    margin: 10px;
+}
+.image
+{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    border-style: hidden;
+    
+
+}
+.heading1
+{
+    text-align: right;
+    
+}
